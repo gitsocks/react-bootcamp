@@ -16,11 +16,24 @@ describe('what the test case is about', () => {
 })
 ```
 
-## Acceptance Criteria
+## Kick Off
+
+Each test case tries to tackle a specific topic with TypeScript and JavaScript. Make sure to read through the following
+documents before tackling the relevant test cases.
+
+### Functions
+1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
+2. [TypeScript](https://www.typescriptlang.org/docs/handbook/2/functions.html).
+
+### Objects
+1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object).
+2. [TypeScript](https://www.typescriptlang.org/docs/handbook/2/objects.html).
+
+### Modules
+1. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
+2. [TypeScript](https://www.typescriptlang.org/docs/handbook/2/modules.html).
 
 An integral part of building any app is authentication & account management. The first couple of phases will focus on getting that set up.
-
-## Kick-Off
 
 Read the tests carefully to figure out what code you must right. 
 
