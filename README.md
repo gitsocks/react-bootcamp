@@ -13,3 +13,8 @@ To get started, fork this repo. Each phase is represented by its own branch. It 
 To tackle a new phase, create a new branch off of the phase branch. It is important to call this prefix this branch with `solution/...`. After creating the new branch, run `npm run test` to run the tests for the phase. The tests will fail by default.
 
 You are now ready to start writing the code until the tests pass. Once you have 100% of the tests passing, you have completed the phase and can move on to the next phase.
+
+## Project Description
+
+At the end of this bootcamp, you should have a fully functional web app. This project works on building a web app that helps developers define feature flags and switch them on or off.
+
